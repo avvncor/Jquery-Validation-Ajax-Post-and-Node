@@ -3,7 +3,7 @@ $(function(){
 
     
 //Validations
-var errorName = false;var errorFeedback = false; var errorPhoneNo = false; var errorEmail=false;
+var errorName = false;var errorQualification = false;  var errorEmail=false;
 var bool = 1;
 
   $('#name').keyup(function(){
